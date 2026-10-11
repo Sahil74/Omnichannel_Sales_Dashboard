@@ -1,5 +1,4 @@
 # Omnichannel_Sales_Dashboard
-# Omnichannel Sales Analysis — Excel Dashboard
 
 ## About the Project
 
